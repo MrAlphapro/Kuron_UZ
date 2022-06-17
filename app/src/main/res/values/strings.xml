@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Қуръони Карим UZ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="setings">Созламалар</string>
+    <string name="setings2">Қоронғу режими</string>
+    <string name="language">Тил</string>
+    <string name="russian">Русский</string>
+    <string name="tajik">Тоҷикӣ</string>
+    <string name="uzbek">Ӯзбек (Кирилл)</string>
+    <string name="uzbekL">O\'zbek (Lotin)</string>
+
+    <string name="strLanguange">Тилни танланг</string>
+    <string name="strVersion">Версия</string>
+    <string name="info">Дастур ҳақида</string>
+    <string name="share">Улашиш</string>
+    <string name="rate">Баҳолаш</string>
+    <string name="adApp_name">(AD) Мен ҳам намоз ӯқийман</string>
+    <string name="moreApps">(AD) Бошқа иловалар</string>
+    <string name="support">Қўллаб-қувватлаш</string>
+
+    <string name="subject">Фон</string>
+    <string name="subject1">Тизимли</string>
+    <string name="subject2">Қора</string>
+    <string name="subject3">Ёрқин</string>
+    <array name="subjectArrays">
+        <item>Тизимли</item>
+        <item>Қора</item>
+        <item>Ёрқин</item>
+    </array>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3072438805806249/4456536944</string>
+
+    <array name="nameSyra">
+        <item>Фотиҳа</item>
+        <item>Бақара</item>
+        <item>Оли Имрон</item>
+        <item>Нисо</item>
+        <item>Моида</item>
+        <item>Анъом</item>
+        <item>Аъроф</item>
+        <item>Анфол</item>
+        <item>Тавба</item>
+        <item>Юнус</item>
+        <item>Ҳуд</item>
+        <item>Юсуф</item>
+        <item>Раъд</item>
+        <item>Иброҳим</item>
+        <item>Ҳижр</item>
+        <item>Наҳл</item>
+        <item>Исро</item>
+        <item>Каҳф</item>
+        <item>Марям</item>
+        <item>Тоҳо</item>
+        <item>Анбиё</item>
+        <item>Ҳаж</item>
+        <item>Муъминун</item>
+        <item>Нур</item>
+        <item>Фурқон</item>
+        <item>Шуаро</item>
+        <item>Намл</item>
+        <item>Қосос</item>
+        <item>Анкабут</item>
+        <item>Рум</item>
+        <item>Луқмон</item>
+        <item>Сажда</item>
+        <item>Аҳзоб</item>
+        <item>Сабаъ</item>
+        <item>Фотир</item>
+        <item>Ёсин</item>
+        <item>Соффаат</item>
+        <item>Сод</item>
+        <item>Зумар</item>
+        <item>Ғофир</item>
+        <item>Фуссилат</item>
+        <item>Шууро</item>
+        <item>Зухруф</item>
+        <item>Духон</item>
+        <item>Жосия</item>
+        <item>Аҳқоф</item>
+        <item>Муҳаммад</item>
+        <item>Фатҳ</item>
+        <item>Ҳужурот</item>
+        <item>Қоф</item>
+        <item>Зориёт</item>
+        <item>Тур</item>
+        <item>Нажм</item>
+        <item>Қамар</item>
+        <item>Ар-Роҳман</item>
+        <item>Воқиъа</item>
+        <item>Ҳадид</item>
+        <item>Мужодала</item>
+        <item>Ҳашр</item>
+        <item>Мумтаҳана</item>
+        <item>Софф</item>
+        <item>Жумуъа</item>
+        <item>Мунофиқун</item>
+        <item>Тағобун</item>
+        <item>Талоқ</item>
+        <item>Таҳрим</item>
+        <item>Мулк</item>
+        <item>Қалам</item>
+        <item>Ҳаққо</item>
+        <item>Маъориж</item>
+        <item>Нуҳ</item>
+        <item>Жин</item>
+        <item>Муззаммил</item>
+        <item>Муддассир</item>
+        <item>Қиёмат</item>
+        <item>Инсон</item>
+        <item>Мурсалот</item>
+        <item>Набаъ</item>
+        <item>Нозиъот</item>
+        <item>Абаса</item>
+        <item>Таквир</item>
+        <item>Инфитор</item>
+        <item>Мутоффифун</item>
+        <item>Иншиқоқ</item>
+        <item>Буруж</item>
+        <item>Ториқ</item>
+        <item>Аълаа</item>
+        <item>Ғошия</item>
+        <item>Фажр</item>
+        <item>Балад</item>
+        <item>Шамс</item>
+        <item>Лайл</item>
+        <item>Зуҳо</item>
+        <item>Шарҳ</item>
+        <item>Тийн</item>
+        <item>Алақ</item>
+        <item>Қадр</item>
+        <item>Баййина</item>
+        <item>Залзала</item>
+        <item>Адият</item>
+        <item>Қориъа</item>
+        <item>Такаасур</item>
+        <item>Аср</item>
+        <item>Ҳумаза</item>
+        <item>Фил</item>
+        <item>Қурайш</item>
+        <item>Мааъуун</item>
+        <item>Кавсар</item>
+        <item>Каафирун</item>
+        <item>Наср</item>
+        <item>Масад</item>
+        <item>Ихлос</item>
+        <item>Фалақ</item>
+        <item>Нaaс</item>
+    </array>
+    <array name="nameSuraArabi">
+        <item>الفاتحة</item>
+        <item>البقرة</item>
+        <item>آل عمران</item>
+        <item>النساء</item>
+        <item>المائدة</item>
+        <item>الأنعام</item>
+        <item>الأعراف</item>
+        <item>الأنفال</item>
+        <item>التوبة</item>
+        <item>يونس</item>
+        <item>هود</item>
+        <item>يوسف</item>
+        <item>الرعد</item>
+        <item>إبراهيم</item>
+        <item>الحجر</item>
+        <item>النحل</item>
+        <item>الإسراء</item>
+        <item>الكهف</item>
+        <item>مريم</item>
+        <item>طه</item>
+        <item>الأنبياء</item>
+        <item>الحج</item>
+        <item>المؤمنون</item>
+        <item>النور</item>
+        <item>الفرقان</item>
+        <item>الشعراء</item>
+        <item>النمل</item>
+        <item>القصص</item>
+        <item>العنكبوت</item>
+        <item>الروم</item>
+        <item>لقمان</item>
+        <item>السجدة</item>
+        <item>الأحزاب</item>
+        <item>سبأ</item>
+        <item>فاطر</item>
+        <item>يس</item>
+        <item>الصافات</item>
+        <item>ص</item>
+        <item>الزمر</item>
+        <item>غافر</item>
+        <item>فصلت</item>
+        <item>الشورى</item>
+        <item>الزخرف</item>
+        <item>الدخان</item>
+        <item>الجاثية</item>
+        <item>الأحقاف</item>
+        <item>محمد</item>
+        <item>الفتح</item>
+        <item>الحجرات</item>
+        <item>ق</item>
+        <item>الذاريات</item>
+        <item>الطور</item>
+        <item>النجم</item>
+        <item>القمر</item>
+        <item>الرحمن</item>
+        <item>الواقعة</item>
+        <item>الحديد</item>
+        <item>المجادلة</item>
+        <item>الحشر</item>
+        <item>الممتحنة</item>
+        <item>الصف</item>
+        <item>الجمعة</item>
+        <item>المنافقون</item>
+        <item>التغابن</item>
+        <item>الطلاق</item>
+        <item>التحريم</item>
+        <item>الملك</item>
+        <item>القلم</item>
+        <item>الحاقة</item>
+        <item>المعارج</item>
+        <item>نوح</item>
+        <item>الجن</item>
+        <item>المزمل</item>
+        <item>المدثر</item>
+        <item>القيامة</item>
+        <item>الإنسان</item>
+        <item>المرسلات</item>
+        <item>النبأ</item>
+        <item>النازعات</item>
+        <item>عبس</item>
+        <item>التكوير</item>
+        <item>الانفطار</item>
+        <item>المطففون</item>
+        <item>الانشقاق</item>
+        <item>البروج</item>
+        <item>الطارق</item>
+        <item>الأعلى</item>
+        <item>الغاشية</item>
+        <item>الفجر</item>
+        <item>البلد</item>
+        <item>الشمس</item>
+        <item>الليل</item>
+        <item>الضحى</item>
+        <item>الشرح</item>
+        <item>التين</item>
+        <item>العلق</item>
+        <item>القدر</item>
+        <item>البينة</item>
+        <item>الزلزلة</item>
+        <item>العاديات</item>
+        <item>القارعة</item>
+        <item>التكاثر</item>
+        <item>العصر</item>
+        <item>الهمزة</item>
+        <item>الفيل</item>
+        <item>قريش</item>
+        <item>الماعون</item>
+        <item>الكوثر</item>
+        <item>الكافرون</item>
+        <item>النصر</item>
+        <item>المسد</item>
+        <item>الإخلاص</item>
+        <item>الفلق</item>
+        <item>الناس</item>
+    </array>
+    <array name="oyatSity">
+        <item>Макка, 7 оят</item>
+        <item>Мадина, 286 оят</item>
+        <item>Мадина, 200 оят</item>
+        <item>Мадина, 176 оят</item>
+        <item>Мадина, 120 оят</item>
+        <item>Макка, 165 оят</item>
+        <item>Макка, 206 оят</item>
+        <item>Мадина, 75 оят</item>
+        <item>Мадина, 129 оят</item>
+        <item>Макка, 109 оят</item>
+        <item>Макка, 123 оят</item>
+        <item>Макка, 111 оят</item>
+        <item>Мадина, 43 оят</item>
+        <item>Макка, 52 оят</item>
+        <item>Макка, 99 оят</item>
+        <item>Макка 128 оят</item>
+        <item>Макка, 111 оят</item>
+        <item>Макка, 110 оят</item>
+        <item>Макка, 98 оят</item>
+        <item>Макка, 135 оят</item>
+        <item>Макка, 112 оят</item>
+        <item>Мадина, 78 оят</item>
+        <item>Макка, 118 оят</item>
+        <item>Мадина, 64 оят</item>
+        <item>Макка, 77 оят</item>
+        <item>Макка, 227 оят</item>
+        <item>Макка, 93 оят</item>
+        <item>Макка, 88 оят</item>
+        <item>Макка, 69 оят</item>
+        <item>Макка, 60 оят</item>
+        <item>Макка, 34 оят</item>
+        <item>Макка, 30 оят</item>
+        <item>Мадина, 73 оят</item>
+        <item>Макка, 54 оят</item>
+        <item>Макка, 45 оят</item>
+        <item>Макка, 83 оят</item>
+        <item>Макка, 182 оят</item>
+        <item>Макка, 88 оят</item>
+        <item>Макка, 75 оят</item>
+        <item>Макка, 85 оят</item>
+        <item>Макка, 54 оят</item>
+        <item>Макка, 53 оят</item>
+        <item>Макка, 89 оят</item>
+        <item>Макка, 59 оят</item>
+        <item>Макка, 37 оят</item>
+        <item>Макка, 35 оят</item>
+        <item>Мадина, 38 оят</item>
+        <item>Мадина, 29 оят</item>
+        <item>Мадина, 18 оят</item>
+        <item>Макка, 45 оят</item>
+        <item>Макка, 60 оят</item>
+        <item>Макка, 49 оят</item>
+        <item>Макка, 62 оят</item>
+        <item>Макка, 55 оят</item>
+        <item>Мадина, 78 оят</item>
+        <item>Макка, 96 оят</item>
+        <item>Мадина, 29 оят</item>
+        <item>Мадина, 22 оят</item>
+        <item>Мадина, 24 оят</item>
+        <item>Мадина, 13 оят</item>
+        <item>Мадина, 14 оят</item>
+        <item>Мадина, 11 оят</item>
+        <item>Мадина, 11 оят</item>
+        <item>Мадина, 18 оят</item>
+        <item>Мадина, 12 оят</item>
+        <item>Мадина, 12 оят</item>
+        <item>Макка, 30 оят</item>
+        <item>Макка, 52 оят</item>
+        <item>Макка, 52 оят</item>
+        <item>Макка, 44 оят</item>
+        <item>Макка, 28 оят</item>
+        <item>Макка, 28 оят</item>
+        <item>Макка, 20 оят</item>
+        <item>Макка, 56 оят</item>
+        <item>Макка, 40 оят</item>
+        <item>Мадина, 31 оят</item>
+        <item>Макка, 50 оят</item>
+        <item>Макка, 40 оят</item>
+        <item>Макка, 46 оят</item>
+        <item>Макка, 42 оят</item>
+        <item>Макка, 29 оят</item>
+        <item>Макка, 19 оят</item>
+        <item>Макка, 36 оят</item>
+        <item>Макка, 25 оят</item>
+        <item>Макка, 22 оят</item>
+        <item>Макка, 17 оят</item>
+        <item>Макка, 19 оят</item>
+        <item>Макка, 26 оят</item>
+        <item>Макка, 30 оят</item>
+        <item>Макка, 20 оят</item>
+        <item>Макка, 15 оят</item>
+        <item>Макка, 21 оят</item>
+        <item>Макка, 11 оят</item>
+        <item>Макка, 8 оят</item>
+        <item>Макка, 8 оят</item>
+        <item>Макка, 19 оят</item>
+        <item>Макка, 5 оят</item>
+        <item>Мадина, 8 оят</item>
+        <item>Мадина, 8 оят</item>
+        <item>Макка, 11 оят</item>
+        <item>Макка, 11 оят</item>
+        <item>Макка, 8 оят</item>
+        <item>Макка, 3 оят</item>
+        <item>Макка, 9 оят</item>
+        <item>Макка, 5 оят</item>
+        <item>Макка, 4 оят</item>
+        <item>Макка, 7 оят</item>
+        <item>Макка, 3 оят</item>
+        <item>Макка, 6 оят</item>
+        <item>Мадина, 3 оят</item>
+        <item>Макка, 5 оят</item>
+        <item>Макка, 4 оят</item>
+        <item>Макка, 5 оят</item>
+        <item>Макка, 6 оят</item>
+    </array>
+
+</resources>
