@@ -72,7 +72,7 @@ class MyAdapter(var mCtx: Context, var resource: Int, var items: MutableList<Kur
                     model.nameK,
                     ListArabi.imron,
                     ListKirili.imronT,
-                    ListTarjuma.baqaraP,
+                    ListTarjuma.imronP,
                     i,
                 )
             }

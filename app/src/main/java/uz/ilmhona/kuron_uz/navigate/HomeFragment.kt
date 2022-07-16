@@ -147,7 +147,7 @@ class HomeFragment : Fragment() {
                     resources.getStringArray(R.array.nameSyra)[i],
                     ListArabi.imron,
                     ListKirili.imronT,
-                    ListTarjuma.baqaraP,
+                    ListTarjuma.imronP,
                     i,
                 )
             }
